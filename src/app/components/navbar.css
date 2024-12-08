@@ -13,8 +13,8 @@ nav {
 }
 
 .logo {
-    height: 10%;
-    width: auto;
+    height: auto;
+    width: 15%;
 }
 
 .burger {
@@ -67,6 +67,11 @@ menu li a:hover {
 
 /*Desktop Breakpoint*/
 @media (min-width: 768px) {
+
+    .logo{
+        height: auto;
+        width: 5%;
+    }
 
     .burger {
         display: none;

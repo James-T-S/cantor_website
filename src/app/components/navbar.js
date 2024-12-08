@@ -6,7 +6,7 @@ import React, { useState } from "react";
 import Logo from './Images/Logo.webp'
 
 const Navbar = () => {
-    const [menuOpen, setMenuOpen] = useState(true);
+    const [menuOpen, setMenuOpen] = useState(false);
     
     const toggleMenu = () => {
         setMenuOpen(!menuOpen)
@@ -14,8 +14,10 @@ const Navbar = () => {
 
     return (
         <nav>
-            <Image src={Logo} alt="Logo" className="logo" style={{width: "50%", height: "auto"}}/>
+            <Image src={Logo} alt="Logo" className="logo"/>
+
             <button className='burger' onClick={toggleMenu}>&#9776;</button>
+
             <menu className={menuOpen ? "active" : "notActive"}>
                 <li><Link href="/">Home</Link></li>
                 <li><Link href="/courses">Courses</Link></li>

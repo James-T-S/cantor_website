@@ -21,13 +21,13 @@ body {
 }
 
 .link {
-    max-width: 800PX;
+    max-width: 1000PX;
 
     background-color: #f2a90e;
     margin-bottom: 7px;
 
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 
     text-align: center;
 
@@ -55,8 +55,6 @@ h2 {
     padding-right: 10px;
     background-color: #e6ab3c;
 }
-
-h2
 
 .textImage {
     text-align: center;

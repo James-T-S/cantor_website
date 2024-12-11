@@ -3,7 +3,6 @@ import Link from "next/link"
 import Image from "next/image"
 import "./navbar.css";
 import React, { useState } from "react";
-import Logo from './Images/Logo.webp'
 
 const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
@@ -14,7 +13,7 @@ const Navbar = () => {
 
     return (
         <nav>
-            <Image src={Logo} alt="Logo" className="logo"/>
+            <Image src="/Images/Logo.webp" alt="Logo" width="auto" height="15%" className="logo"/>
 
             <button className='burger' onClick={toggleMenu}>&#9776;</button>
 

@@ -1,9 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,100;1,900&display=swap');
 
-h1 {
+h1{
     font-family: "Bebas Neue";
+    margin-top: 100px;
 }
 
 h2{
+    font-family: "Bebas Neue";
+    background-color: #FFF;
+}
+
+h3{
     background-color: #e6ab3c;
 }

@@ -1,3 +1,5 @@
+import "./partnerships.css";
+
 export default function partnership() {
 
 

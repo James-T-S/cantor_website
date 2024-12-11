@@ -1,4 +1,4 @@
-
+import "./facilities.css";
 
 export default function facilities() {
 
@@ -8,14 +8,14 @@ export default function facilities() {
         <div>
             <h1>Explore Cantor College: World-Class Facilities for Your Success</h1>
 
-            <h2>
+            <h3>
                 At Cantor College, we are committed to providing our students with the best possible
                 environment to learn, create, and innovate. Our state-of-the-art facilities are designed
                 to support your academic journey and help you thrive in your chosen field. Whether you’re
                 studying computing, design, or technology, our campus offers everything you need to excel.
-            </h2>
+            </h3>
 
-            <h1>Our Facilities</h1>
+            <h1>Our Facilities:</h1>
 
             <h2>1. Advanced Computing Labs </h2>
             <h3>

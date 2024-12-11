@@ -22,7 +22,6 @@ export default function RootLayout({ children }) {
 
 
           <footer>
-            <ul>
               <li>How to find us:</li>
               <li>Cantor College</li>
               <li>Main Street</li>
@@ -31,7 +30,6 @@ export default function RootLayout({ children }) {
               <li>Tel:(01321) 2340 235</li>
               <li>Fax: (01321) 2340 236</li>
               <li>Email: info@cantorcollege.ac.uk</li>
-            </ul>
           </footer>
         </div>
       </body>

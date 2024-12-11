@@ -1,10 +1,12 @@
+import "./learning.css";
+
 export default function learning() {
 
     return (
         <div>
             <h1>Rules Governing the Use of the Library and Resource Centre</h1>
 
-            <h2>
+            <h2 id="reColour">
                 All students and staff of the College are entitled to register as members of the Library
                 and Resource Centre and to use the facilities for the purpose of their course of study or
                 College employment.
@@ -30,6 +32,7 @@ export default function learning() {
             <h1>Access:</h1>
 
             <h2>
+                <ul>
                 <li>
                     The use of Library and Resource Centre facilities is normally limited to use for
                     the educational and other purposes of the College.
@@ -61,51 +64,54 @@ export default function learning() {
                     Users of the Library and Resource Centre are reminded that they must be willing to
                     show  ID cards or other identification when requested to do so by College staff.
                 </li>
+                </ul>
             </h2>
 
             <h1>Use of Facilities</h1>
 
             <h2>
-                <li>
-                    The Library and Resource Centre is not responsible for loss of, or damage to, the
-                    personal belongings of its users and visitors.  Users must take reasonable precautions
-                    against theft of their belongings, and must not leave belongings unattended even for a
-                    very short period. Study tables/PCs may not be reserved by depositing clothing or private
-                    property on the adjacent seat.  Articles left unattended may be removed by staff but
-                    will be returned on request at the Reception Desk.
+                <ul>
+                    <li>
+                        <b>The Library and Resource Centre is not responsible for loss of, or damage to, the
+                        personal belongings</b> of its users and visitors.  Users must take reasonable precautions
+                        against theft of their belongings, and must not leave belongings unattended even for a
+                        very short period. Study tables/PCs may not be reserved by depositing clothing or private
+                        property on the adjacent seat.  Articles left unattended may be removed by staff but
+                        will be returned on request at the Reception Desk.
                 </li>
 
                 <li>
-                    All users are required to conduct themselves quietly throughout the Library and Resource
+                    <b>All users are required to conduct themselves quietly</b> throughout the Library and Resource
                     Centre and conversation between users must be kept to a minimum.  No conversation is
                     permitted in those areas designated as ‘Silent’ areas.
                 </li>
 
                 <li>
-                    Personal stereos may not be used in the Library and Resource Centre.
+                    <b>Personal stereos may not be used</b> in the Library and Resource Centre.
                 </li>
 
                 <li>
-                    Mobile phones must be turned off in all Library and Resource Centre study areas.
+                    <b>Mobile phones must be turned off</b> in all Library and Resource Centre study areas.
                     Their use is permitted in the enclosed stair wells of the Main Site building.
                 </li>
 
                 <li>
-                    Users should not make use of mains electrical supplies to power their own equipment,
+                    <b>Users should not make use of mains electrical supplies</b> to power their own equipment,
                     including external storage devices,  unless the equipment has been tested and confirmed
                     as meeting the required Health & Safety standards.  Written evidence of such compliance
                     will be required.
                 </li>
 
                 <li>
-                    Eating and drinking are not permitted in any of the public areas of the Library and
+                    <b>Eating and drinking are not permitted</b> in any of the public areas of the Library and
                     Resource Centre.
                 </li>
 
                 <li>
-                    Action will be taken against any person misusing furniture, facilities or materials.
+                    <strong>Action will be taken against any person misusing furniture, facilities or materials.</strong>
                     Any such person may be required to pay for the making good damage or loss.
                 </li>
+                </ul>
             </h2>
 
         </div>

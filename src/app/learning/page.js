@@ -29,7 +29,7 @@ export default function learning() {
                 College procedures as set out in the Staff Handbook.
             </h2>
 
-            <h1>Access:</h1>
+            <h1>Access</h1>
 
             <h2>
                 <ul>

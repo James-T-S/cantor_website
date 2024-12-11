@@ -6,14 +6,14 @@ import React, { useState } from "react";
 
 const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
-    
+
     const toggleMenu = () => {
         setMenuOpen(!menuOpen)
     }
 
     return (
         <nav>
-            <Image src="/Images/Logo.webp" alt="Logo" width="auto" height="15%" className="logo"/>
+            <img src="/Images/Logo.webp" alt="Logo" className="logo" />
 
             <button className='burger' onClick={toggleMenu}>&#9776;</button>
 

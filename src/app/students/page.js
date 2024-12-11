@@ -1,9 +1,9 @@
 export default function students() {
 
 
-    return(
+    return (
         <div>
-            
+
         </div>
     );
 }

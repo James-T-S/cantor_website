@@ -1,9 +1,5 @@
 import Image from "next/image";
 import Link from "next/link";
-import CantorAtrium1 from "./components/Images/CantorAtrium1.webp";
-import CantorLab1 from "./components/Images/CantorLab1.webp";
-import CantorLab2 from "./components/Images/CantorLab2.webp";
-import HeroShot from "./components/Images/HeroShot.webp";
 import "./index.css";
 
 export default function Home() {
@@ -28,11 +24,10 @@ export default function Home() {
 
   return (
     <div>
-      <Image
+      <img
         id="banner"
-        src={CantorAtrium1}
+        src="/Images/CantorAtrium1.webp"
         alt="Banner"
-        style={{ width: "100%", height: "auto" }}
       />
 
       <div className="buttons">

@@ -68,7 +68,7 @@ menu li a:hover {
 /*Desktop Breakpoint*/
 @media (min-width: 768px) {
 
-    .logo{
+    .logo {
         height: auto;
         width: 5%;
     }
@@ -91,7 +91,7 @@ menu li a:hover {
         z-index: 0;
     }
 
-    menu.active{
+    menu.active {
         display: flex;
         flex-direction: row-reverse;
         gap: 1em;

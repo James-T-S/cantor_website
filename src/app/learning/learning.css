@@ -1,14 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,100;1,900&display=swap');
 
 h1 {
-    display: flex;
-
-    margin-top: 100px;
-    padding-left: 10px;
-    font-size: 75px;
-
-    flex-direction: column;
-    align-items: center;
+    
 }
 
 h2 {

@@ -59,6 +59,8 @@ export default function Home() {
         time with Cantor College, both as a student and in your future career.
       </h2>
 
+
+      <img src="/Images/CantorFront.webp" alt="Cantor Front" className="resizeImage" />
       <h1>Facilities</h1>
       <h2>
         The College is located in the attractive and pleasantly refurbished
@@ -72,35 +74,34 @@ export default function Home() {
       </h2>
 
       <h1>Facilities List</h1>
-      <h2>
-        <ul>
-          <li>wi-fi technology</li>
 
-          <li>pool teaching rooms, including classrooms to teach from 25 - 80 students</li>
+      <ul>
+        <li>wi-fi technology</li>
 
-          <li>specialist faculty facilities</li>
+        <li>Pool teaching rooms, including classrooms to teach from 25 - 80 students</li>
 
-          <li>a double height lecture theatre at first and second floor level</li>
+        <li>Specialist faculty facilities</li>
 
-          <li>dramatic three-storey glass open atrium</li>
+        <li>A double height lecture theatre at first and second floor level</li>
 
-          <li>meeting rooms</li>
+        <li>Dramatic three-storey glass open atrium</li>
 
-          <li>office accommodation</li>
+        <li>Meeting rooms</li>
 
-          <li>specialist IT facilities</li>
+        <li>Office accommodation</li>
 
-          <li>reception desk area</li>
+        <li>Specialist IT facilities</li>
 
-          <li>catering outlet</li>
+        <li>Reception desk area</li>
 
-          <li>parking for disabled badge holders</li>
+        <li>Catering outlet</li>
 
-          <li>cycle racks</li>
+        <li>Parking for disabled badge holders</li>
 
-          <li>gallery</li>
-        </ul>
-      </h2>
+        <li>Cycle racks</li>
+
+        <li>Gallery</li>
+      </ul>
 
       <h1>Computing Courses</h1>
 

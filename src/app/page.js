@@ -75,33 +75,36 @@ export default function Home() {
 
       <h1>Facilities List</h1>
 
-      <ul>
-        <li>wi-fi technology</li>
+      <h2>
 
-        <li>Pool teaching rooms, including classrooms to teach from 25 - 80 students</li>
+        <ul>
+          <li>WI-FI technology</li>
 
-        <li>Specialist faculty facilities</li>
+          <li>Pool teaching rooms, including classrooms to teach from 25 - 80 students</li>
 
-        <li>A double height lecture theatre at first and second floor level</li>
+          <li>Specialist faculty facilities</li>
 
-        <li>Dramatic three-storey glass open atrium</li>
+          <li>A double height lecture theatre at first and second floor level</li>
 
-        <li>Meeting rooms</li>
+          <li>Dramatic three-storey glass open atrium</li>
 
-        <li>Office accommodation</li>
+          <li>Meeting rooms</li>
 
-        <li>Specialist IT facilities</li>
+          <li>Office accommodation</li>
 
-        <li>Reception desk area</li>
+          <li>Specialist IT facilities</li>
 
-        <li>Catering outlet</li>
+          <li>Reception desk area</li>
 
-        <li>Parking for disabled badge holders</li>
+          <li>Catering outlet</li>
 
-        <li>Cycle racks</li>
+          <li>Parking for disabled badge holders</li>
 
-        <li>Gallery</li>
-      </ul>
+          <li>Cycle racks</li>
+
+          <li>Gallery</li>
+        </ul>
+      </h2>
 
       <h1>Computing Courses</h1>
 

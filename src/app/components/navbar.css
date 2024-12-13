@@ -1,6 +1,6 @@
 nav {
     font-family: Arial, sans-serif;
-    background-color: #513e0b;
+    background-color: #513e0bf3;
     position: fixed;
     top: 0;
     left: 0;
@@ -10,6 +10,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
 }
 
 .logo {
@@ -27,9 +28,9 @@ nav {
 }
 
 menu {
+    background-color: #513e0b;
     list-style-type: none;
     flex-direction: column;
-    background-color: #513e0b;
     width: 100%;
     overflow: hidden;
     position: absolute;
@@ -52,7 +53,7 @@ menu.notActive {
 }
 
 menu li a {
-    color: white;
+    color: #FFF;
     text-decoration: none;
     padding: 0.5em 1em;
     border-top: 0.1em solid #FFF;
@@ -67,6 +68,11 @@ menu li a:hover {
 
 /*Desktop Breakpoint*/
 @media (min-width: 768px) {
+
+menu{
+    display: flex;
+    justify-content: flex-end;
+}
 
     .logo {
         height: auto;
@@ -84,8 +90,8 @@ menu li a:hover {
 
     menu.notActive {
         display: flex;
-        flex-direction: row-reverse;
-        gap: 1em;
+        flex-direction: row;
+        gap: 0.5em;
         position: static;
         max-height: none;
         z-index: 0;
@@ -93,8 +99,8 @@ menu li a:hover {
 
     menu.active {
         display: flex;
-        flex-direction: row-reverse;
-        gap: 1em;
+        flex-direction: row;
+        gap: 0.5em;
         position: static;
         max-height: none;
         z-index: 0;

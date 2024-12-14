@@ -1,9 +1,12 @@
+import "./staff.css";
+
 export default function students() {
 
 
     return (
         <div>
-            <h1>Information for Staff</h1>
+            <img src="/Images/CheeseGrater.webp" alt="Cantor Front" className="resizeImage" />
+            <h1 className="title">Information for Staff</h1>
 
             <h1>News</h1>
 
@@ -18,7 +21,6 @@ export default function students() {
             <h2>
                 For academic regulations, assessment, awards, student records and course validation.
             </h2>
-
 
             <h1>Catering Services</h1>
 

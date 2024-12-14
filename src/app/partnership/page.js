@@ -1,5 +1,3 @@
-import "./partnerships.css";
-
 export default function partnership() {
 
 
@@ -14,6 +12,7 @@ export default function partnership() {
                 tailored solutions. With a focus on Computing, Design, and Technology, we are uniquely
                 positioned to help your business thrive in an increasingly digital world.
             </h2>
+            <img src="/Images/CantorLab1.webp" alt="Cantor Atrium" className="resizeImage" />
 
             <h1>Our Services</h1>
 
@@ -59,21 +58,28 @@ export default function partnership() {
                 <li>Cutting-Edge Expertise: Our programs are at the forefront of industry trends,
                     ensuring that our services reflect the latest advancements in technology and design.
                 </li>
+                <br/>
+                <br/>
 
                 <li>Innovation at the Core: We foster a culture of creativity and problem-solving,
                     making us the ideal partner for businesses seeking innovative solutions.
                 </li>
+                <br/>
+                <br/>
 
                 <li>
                     Tailored Solutions: We understand that every business is unique. Our services are
                     customized to meet your specific objectives and challenges.
                 </li>
+                <br/>
+                <br/>
 
                 <li>
                     Future-Ready Talent: Our students are trained to excel in the modern workplace,
                     equipped with both theoretical knowledge and practical skills.
                 </li>
             </h2>
+            <img src="/Images/CantorAtrium1.webp" alt="Cantor Atrium" className="resizeImage" />
 
             <h1>Get in Touch</h1>
 

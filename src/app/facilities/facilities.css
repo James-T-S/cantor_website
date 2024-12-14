@@ -1,15 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,100;1,900&display=swap');
 
-h1 {
+.title{
+    display: inline-block;
     font-family: "Bebas Neue";
-    margin-top: 100px;
 }
 
 h2 {
     font-family: "Bebas Neue";
+
+    display: flex;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    font-size: 30px;
+
+    flex-direction: column;
+    align-items: center;
     background-color: #FFF;
 }
 
 h3 {
+    font-family: Arial, Helvetica, sans-serif;
     background-color: #e6ab3c;
+    
+    padding: 0;
+    margin: 0;
+
+    font-size: 17px;
+
+    padding: 20px;
 }

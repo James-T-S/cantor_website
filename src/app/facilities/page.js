@@ -14,8 +14,9 @@ export default function facilities() {
                 to support your academic journey and help you thrive in your chosen field. Whether you’re
                 studying computing, design, or technology, our campus offers everything you need to excel.
             </h3>
+            <img src="/Images/ShuMap.webp" alt="Cantor Front" className="resizeImage" />
 
-            <h1>Our Facilities:</h1>
+            <h1 className="title">Our Facilities:</h1>
 
             <h2>1. Advanced Computing Labs </h2>
             <h3>
@@ -24,6 +25,8 @@ export default function facilities() {
                 cybersecurity, data science, and more. The labs are accessible 24/7, ensuring you can work
                 on your projects at any time that suits you.
             </h3>
+            <img src="/Images/CantorLab2.webp" alt="Cantor Front" className="resizeImage" />
+
 
             <h2>2. Design Studios </h2>
             <h3>

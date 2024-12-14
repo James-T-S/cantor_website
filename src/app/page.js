@@ -26,7 +26,7 @@ export default function Home() {
     <div>
       <img
         id="banner"
-        src="/Images/CantorAtrium1.webp"
+        src="/Images/CantorAtrium2.webp"
         alt="Banner"
       />
 
@@ -127,6 +127,7 @@ export default function Home() {
         professional occupations in Computing and related fields. Many graduates
         continue their studies to pursue a higher degree such as an MSc. or PhD.
       </h2>
+      <img src="/Images/CantorLab2.webp" alt="Cantor Atrium" className="resizeImage" />
 
       <h1>Design Courses</h1>
 
@@ -152,6 +153,7 @@ export default function Home() {
         facilitated through our links with commercial clients, cultural
         institutions, businesses and organisations.
       </h2>
+      <img src="/Images/Gallery.webp" alt="Cantor Atrium" className="resizeImage" />
     </div>
   );
 }

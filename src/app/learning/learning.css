@@ -14,11 +14,18 @@ h2 {
     background-color: #e6ab3c;
 }
 
+ul{
+    padding: 0;
+}
+
 ul li {
-    margin-top: 20px;
+    margin: 0;
+    padding: 0;
+
     list-style-type: none;
     background-color: #e6ab3c;
 }
+
 
 b {
     text-decoration: underline;

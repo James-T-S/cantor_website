@@ -51,6 +51,7 @@ export default function partnership() {
                 opportunity to sponsor events or collaborate in their organization, giving you direct access
                 to the brightest minds in the field and the chance to showcase your brand to our community.
             </h2>
+            <img src="/Images/CheeseGrater.webp" alt="Cantor Atrium" className="resizeImage" />
 
             <h1>Why Partner with Cantor College?</h1>
 

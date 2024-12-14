@@ -21,6 +21,7 @@ export default function students() {
             <h2>
                 For academic regulations, assessment, awards, student records and course validation.
             </h2>
+            <img src="/Images/Gallery.webp" alt="Cantor Atrium" className="resizeImage" />
 
             <h1>Catering Services</h1>
 
@@ -43,6 +44,7 @@ export default function students() {
                 The ISS team delivers the College’s computing facilities including all
                 hardware and software. They also run the staff helpdesk.
             </h2>
+            <img src="/Images/CantorLab4.webp" alt="Cantor Atrium" className="resizeImage" />
 
 
             <h1>Marketing Services</h1>
@@ -59,7 +61,7 @@ export default function students() {
                 All staff pay and conditions enquiries should be directed to
                 the Personnel Services team on the 3rd floor.
             </h2>
-
+            <img src="/Images/LectureTheatre.webp" alt="Cantor Atrium" className="resizeImage" />
 
             <h1>Facilities</h1>
 

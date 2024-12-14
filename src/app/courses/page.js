@@ -16,15 +16,33 @@ export default function courses() {
       })
   }, [])
 
+  let foundationYear = "Has Foundation Year"
+
+
   return (
     <div>
-      <h1>Course List</h1>
+      <h1 className='title'>Course List</h1>
       <div className="course-list">
         {courseData ? (
           courseData.map((course, index) => (
             <div key={index}>
               <h1>{course.CourseTitle}</h1>
-              <p>{course.CourseSummary}</p>
+              <h2>{course.CourseSummary}
+                <br />
+                <br />
+                <ul>
+                  <li>{course.CourseType}</li>
+                  <li>{course.CourseAwardName}</li>
+                  <li>{course.UcasCode}</li>
+                  <li>{course.UcasPoints}</li>
+                  <li>{course.YearOfEntry}</li>
+                  <li>{course.ModeOfAttendance}</li>
+                  <li>{course.StudyLength}</li>
+                  <li>{course.HasFoundationYear ? "Has Foundation Year" : "No Foundation Year"}</li>
+                  <li>{course.CourseSubject}</li>
+                  <li>{course.NoLongerRecruiting ? "Spaces Left" : "No Spaces Left"}</li>
+                </ul>
+              </h2>
             </div>
           ))
         ) : (

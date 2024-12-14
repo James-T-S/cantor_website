@@ -4,7 +4,7 @@ export default function learning() {
 
     return (
         <div>
-            <h1>Rules Governing the Use of the Library and Resource Centre</h1>
+            <h1 className='title'>Rules Governing the Use of the Library and Resource Centre</h1>
 
             <h2 id="reColour">
                 All students and staff of the College are entitled to register as members of the Library

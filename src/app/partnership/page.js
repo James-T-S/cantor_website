@@ -5,7 +5,7 @@ export default function partnership() {
 
     return (
         <div>
-            <h1>Partner with Cantor College: Unlock Expertise, Innovation, and Growth</h1>
+            <h1 className='title'>Partner with Cantor College: Unlock Expertise, Innovation, and Growth</h1>
 
             <h2>
                 At Cantor College, we believe in the power of collaboration between education and

@@ -6,7 +6,7 @@ export default function facilities() {
 
     return (
         <div>
-            <h1>Explore Cantor College: World-Class Facilities for Your Success</h1>
+            <h1 className='title'>Explore Cantor College: World-Class Facilities for Your Success</h1>
 
             <h3>
                 At Cantor College, we are committed to providing our students with the best possible

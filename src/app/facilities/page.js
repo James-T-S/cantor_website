@@ -2,8 +2,6 @@ import "./facilities.css";
 
 export default function facilities() {
 
-
-
     return (
         <div>
             <h1 className='title'>Explore Cantor College: World-Class Facilities for Your Success</h1>
@@ -26,7 +24,6 @@ export default function facilities() {
                 on your projects at any time that suits you.
             </h3>
             <img src="/Images/CantorLab2.webp" alt="Cantor Front" className="resizeImage" />
-
 
             <h2>2. Design Studios </h2>
             <h3>
@@ -54,6 +51,7 @@ export default function facilities() {
                 software, you’ll be able to experiment with emerging technologies and push the boundaries of
                 what’s possible in your field.
             </h3>
+            <img src="/Images/CantorLab1.webp" alt="Cantor Front" className="resizeImage" />
 
             <h2>5. Collaborative Learning Spaces </h2>
             <h3>
@@ -79,6 +77,8 @@ export default function facilities() {
                 facilities, making it the perfect spot to unwind between classes, meet with friends, or
                 join student-led activities and clubs.
             </h3>
+            <img src="/Images/CantorAtrium4.webp" alt="Cantor Front" className="resizeImage" />
+
 
             <h2>8. Career and Development Centre </h2>
             <h3>
@@ -96,6 +96,7 @@ export default function facilities() {
                 classes to help you stay healthy and active. The Centre also includes wellness services such
                 as yoga, meditation, and counseling to support your overall well-being.
             </h3>
+            <img src="/Images/CantorFront.webp" alt="Cantor Front" className="resizeImage" />
 
             <h2>10. On-Campus Housing</h2>
             <h3>

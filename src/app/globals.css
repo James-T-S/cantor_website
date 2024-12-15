@@ -62,10 +62,18 @@ footer {
 footer li {
     list-style: none;
     text-align: center;
-    color: #FFFFFF
+    color: #FFF
 }
 
 @media (min-width: 768px) {
+    main{
+        max-width: 1200px;
+        margin: auto;
+    }
+
+    body{
+    }
+
     .title {
         margin-top: 15vh;
     }

@@ -2,7 +2,7 @@
 
 .title {
     margin-top: 10vh;
-    
+
     font-size: 40px;
     line-height: 40px;
 
@@ -26,11 +26,11 @@ h1 {
     padding-left: 20px;
 
     font-size: 30px;
-    
+
     flex-direction: column;
 
     color: rgb(110, 63, 18);
-    
+
 }
 
 
@@ -41,7 +41,26 @@ h2 {
     padding: 20px;
     margin: 0;
 
+    margin-top: 20px;
+
     font-size: 17px;
+}
+
+strong {
+    font-family: "Bebas Neue";
+
+    display: flex;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    padding: 0;
+
+    font-size: 30px;
+
+    flex-direction: column;
+
+    color: rgb(110, 63, 18);
 }
 
 .resizeImage {
@@ -52,7 +71,15 @@ h2 {
     height: auto;
 }
 
-ul li{
+.banner {
+    width: 100%;
+    height: auto;
+    margin-top: 0px;
+
+    left: 0;
+}
+
+ul li {
     margin-bottom: 20px;
     list-style: none;
 }
@@ -64,7 +91,7 @@ footer {
     background-color: #333333;
 }
 
-footer ul{
+footer ul {
     background-color: #333333;
 }
 
@@ -80,7 +107,7 @@ footer ul li {
     margin-bottom: 20px;
 }
 
-footer ul li strong{
+footer ul li strong {
     color: #FFF;
 
     font-family: "Bebas Neue";
@@ -90,34 +117,43 @@ footer ul li strong{
 }
 
 @media (min-width: 768px) {
-    main{
+
+    main {
         max-width: 1200px;
         margin: auto;
-    }
-
-    body{
     }
 
     .title {
         margin-top: 15vh;
     }
 
-    .resizeImage{
+    .imageText {
+        display: flex;
+        background-color: #FFF;
+        margin-top: 20px;
+    }
+
+    .imageText h2 {
+        background-color: #FFF;
+    }
+
+    .imageText .resizeImage {
         width: 55%;
         height: auto;
     }
 
-    .imageText{
+    .textImage {
         display: flex;
+        flex-direction: row-reverse;
+        margin-top: 20px;
     }
 
-    .imageText h2{
+    .textImage h2 {
         background-color: #FFF;
     }
 
-    .textImage{
-        display: flex;
-        flex-direction: row-reverse;
-        text-align: center;
+    .textImage .resizeImage {
+        width: 55%;
+        height: auto;
     }
 }

@@ -25,7 +25,7 @@ export default function Home() {
   return (
     <div>
       <img
-        id="banner"
+        className="banner"
         src="/Images/CantorAtrium2.webp"
         alt="Banner"
       />
@@ -45,15 +45,15 @@ export default function Home() {
         </Link>
       </div>
 
-      <h1>About Us</h1>
       <div className="imageText">
         <h2>
+          <strong>About Us</strong>
           Cantor College was established in 1989 to specialize in Computing and
           Design. At Cantor College, we want to give students the education they
           need to achieve their career aims, leaving them equipped with the
-          knowledge, skills and experience to succeed. 
-          <br/>
-          <br/>
+          knowledge, skills and experience to succeed.
+          <br />
+          <br />
           Cantor College gives you
           the opportunities that can give you the edge when you enter the world of
           work, through our teaching and our links to some of the world's leading
@@ -77,9 +77,8 @@ export default function Home() {
         teaching space for more than 1600 students.
       </h2>
 
-      <h1>Facilities List</h1>
-
       <h2>
+        <strong>Facilities List</strong>
 
         <ul>
           <li>WI-FI technology</li>
@@ -110,9 +109,9 @@ export default function Home() {
         </ul>
       </h2>
 
-      <h1>Computing Courses</h1>
       <div className="textImage">
         <h2>
+          <strong>Computing Courses</strong>
           The College offers a range of courses to suit applicants with varying
           backgrounds and educational abilities. At undergraduate level, there are
           single BSc Honours Degree courses in Computing, Computer Networks,
@@ -134,9 +133,9 @@ export default function Home() {
         <img src="/Images/CantorLab3.webp" alt="Cantor Atrium" className="resizeImage" />
       </div>
 
-      <h1>Design Courses</h1>
       <div className="imageText">
         <h2>
+          <strong>Design Courses</strong>
           The College is an internationally connected creative community of
           diverse disciplines housed under one roof. We shape our students'
           futures, preparing them to shape the world through applied knowledge and

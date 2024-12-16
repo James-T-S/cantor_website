@@ -6,7 +6,7 @@ export default function learning() {
         <div>
             <h1 className='title'>Rules Governing the Use of the Library and Resource Centre</h1>
 
-            <h2 id="reColour">
+            <h2>
                 All students and staff of the College are entitled to register as members of the Library
                 and Resource Centre and to use the facilities for the purpose of their course of study or
                 College employment.
@@ -28,49 +28,51 @@ export default function learning() {
                 Regulations for Students, in the case of students, or in the case of staff through the appropriate
                 College procedures as set out in the Staff Handbook.
             </h2>
-            <img src="/Images/LectureTheatre.webp" alt="Cantor Atrium" className="resizeImage" />
 
-            <h1>Access</h1>
+
+            <div className="textImage">
+                <h2>
+                    <strong>Access</strong>
+                    <ul>
+                        <li>
+                            The use of Library and Resource Centre facilities is normally limited to use for
+                            the educational and other purposes of the College.
+                        </li>
+
+                        <li>
+                            All individuals wishing to become members of the Library and Resource Centre must
+                            comply with the registration procedures.  These include an undertaking to abide by
+                            Library and Resource Centre rules.
+                        </li>
+
+                        <li>
+                            Individuals or organisations who are not eligible for membership but have good reason
+                            to use the Library and Resource Centre  may be admitted, by arrangement, for purposes
+                            of study only. Procedures for seeking admission are outlined in the External Services
+                            leaflet. Non-members must sign the Visitors' Book on each visit, and may be required to
+                            produce written identification.  Study use does not include access to the College's
+                            Academic Network.
+                        </li>
+
+                        <li>
+                            ID cards issued by the College are not transferable from one person to another.
+                            The person named on each card is responsible for all items borrowed on it and is
+                            liable for the cost of replacement of the card or items borrowed on it in the event
+                            of loss or damage.
+                        </li>
+
+                        <li>
+                            Users of the Library and Resource Centre are reminded that they must be willing to
+                            show  ID cards or other identification when requested to do so by College staff.
+                        </li>
+                    </ul>
+                </h2>
+                <img src="/Images/CheeseGrater.webp" alt="Cantor Atrium" className="resizeImage" />
+            </div>
+
 
             <h2>
-                <ul>
-                    <li>
-                        The use of Library and Resource Centre facilities is normally limited to use for
-                        the educational and other purposes of the College.
-                    </li>
-
-                    <li>
-                        All individuals wishing to become members of the Library and Resource Centre must
-                        comply with the registration procedures.  These include an undertaking to abide by
-                        Library and Resource Centre rules.
-                    </li>
-
-                    <li>
-                        Individuals or organisations who are not eligible for membership but have good reason
-                        to use the Library and Resource Centre  may be admitted, by arrangement, for purposes
-                        of study only. Procedures for seeking admission are outlined in the External Services
-                        leaflet. Non-members must sign the Visitors' Book on each visit, and may be required to
-                        produce written identification.  Study use does not include access to the College's
-                        Academic Network.
-                    </li>
-
-                    <li>
-                        ID cards issued by the College are not transferable from one person to another.
-                        The person named on each card is responsible for all items borrowed on it and is
-                        liable for the cost of replacement of the card or items borrowed on it in the event
-                        of loss or damage.
-                    </li>
-
-                    <li>
-                        Users of the Library and Resource Centre are reminded that they must be willing to
-                        show  ID cards or other identification when requested to do so by College staff.
-                    </li>
-                </ul>
-            </h2>
-
-            <h1>Use of Facilities</h1>
-
-            <h2>
+                <strong>Use of Facilities</strong>
                 <ul>
                     <li>
                         <b>The Library and Resource Centre is not responsible for loss of, or damage to, the

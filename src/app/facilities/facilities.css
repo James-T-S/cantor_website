@@ -3,6 +3,16 @@
 .title{
     display: inline-block;
     font-family: "Bebas Neue";
+    align-items: center;
+}
+
+h1{
+    margin-top: 20px;
+
+    font-size: 40px;
+    line-height: 40px;
+
+    color: black;
 }
 
 h2 {
@@ -21,12 +31,27 @@ h2 {
     color: rgb(110, 63, 18);
 }
 
+.imageText h3{
+    background-color: #FFF;
+}
+
+.textImage h3{
+    background-color: #FFF;
+}
+
 h3 {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #e6ab3c;
     
     padding: 20px;
     margin: 0;
+    margin-top: 20px;
 
     font-size: 17px;
+}
+
+#map{
+    width: 100%;
+    height: auto;
+    margin: 0;
 }

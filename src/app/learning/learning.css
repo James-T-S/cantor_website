@@ -21,6 +21,7 @@ ul{
 ul li {
     margin: 0;
     padding: 0;
+    margin-bottom: 20px;
 
     list-style-type: none;
     background-color: #e6ab3c;

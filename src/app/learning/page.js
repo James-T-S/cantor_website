@@ -38,14 +38,12 @@ export default function learning() {
                         The use of Library and Resource Centre facilities is normally limited to use for
                         the educational and other purposes of the College.
                     </li>
-                    <br /> 
 
                     <li>
                         All individuals wishing to become members of the Library and Resource Centre must
                         comply with the registration procedures.  These include an undertaking to abide by
                         Library and Resource Centre rules.
                     </li>
-                    <br /> 
 
                     <li>
                         Individuals or organisations who are not eligible for membership but have good reason
@@ -55,7 +53,6 @@ export default function learning() {
                         produce written identification.  Study use does not include access to the College's
                         Academic Network.
                     </li>
-                    <br /> 
 
                     <li>
                         ID cards issued by the College are not transferable from one person to another.
@@ -63,7 +60,6 @@ export default function learning() {
                         liable for the cost of replacement of the card or items borrowed on it in the event
                         of loss or damage.
                     </li>
-                    <br /> 
 
                     <li>
                         Users of the Library and Resource Centre are reminded that they must be willing to
@@ -84,25 +80,21 @@ export default function learning() {
                         property on the adjacent seat.  Articles left unattended may be removed by staff but
                         will be returned on request at the Reception Desk.
                     </li>
-                    <br /> 
 
                     <li>
                         <b>All users are required to conduct themselves quietly</b> throughout the Library and Resource
                         Centre and conversation between users must be kept to a minimum.  No conversation is
                         permitted in those areas designated as ‘Silent’ areas.
                     </li>
-                    <br /> 
 
                     <li>
                         <b>Personal stereos may not be used</b> in the Library and Resource Centre.
                     </li>
-                    <br /> 
 
                     <li>
                         <b>Mobile phones must be turned off</b> in all Library and Resource Centre study areas.
                         Their use is permitted in the enclosed stair wells of the Main Site building.
                     </li>
-                    <br /> 
 
                     <li>
                         <b>Users should not make use of mains electrical supplies</b> to power their own equipment,
@@ -110,16 +102,14 @@ export default function learning() {
                         as meeting the required Health & Safety standards.  Written evidence of such compliance
                         will be required.
                     </li>
-                    <br /> 
 
                     <li>
                         <b>Eating and drinking are not permitted</b> in any of the public areas of the Library and
                         Resource Centre.
                     </li>
-                    <br /> 
 
                     <li>
-                        <strong>Action will be taken against any person misusing furniture, facilities or materials.</strong>
+                        <b>Action will be taken against any person misusing furniture, facilities or materials.</b>
                         Any such person may be required to pay for the making good damage or loss.
                     </li>
                 </ul>

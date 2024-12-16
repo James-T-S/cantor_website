@@ -22,16 +22,14 @@ export default function RootLayout({ children }) {
 
 
           <footer>
-            <li><strong>How to find us:</strong></li>
-            <br/>
-            <li>Cantor College</li>
-            <li>Main Street, Sheffield, SC4 2BB</li>
-            <br/>
-            <li>Tel:(01321) 2340 235</li>
-            <br/>
-            <li>Fax: (01321) 2340 236</li>
-            <br/>
-            <li>Email: info@cantorcollege.ac.uk</li>
+            <ul>
+              <li><strong>How to find us:</strong></li>
+              <li>Cantor College</li>
+              <li>Main Street, Sheffield, SC4 2BB</li>
+              <li>Tel:(01321) 2340 235</li>
+              <li>Fax: (01321) 2340 236</li>
+              <li>Email: info@cantorcollege.ac.uk</li>
+            </ul>
           </footer>
         </div>
       </body>

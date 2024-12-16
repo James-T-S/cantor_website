@@ -10,7 +10,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
+
 }
 
 .logo {
@@ -69,10 +69,15 @@ menu li a:hover {
 /*Desktop Breakpoint*/
 @media (min-width: 768px) {
 
-menu{
-    display: flex;
-    justify-content: flex-end;
-}
+    menu {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    nav {
+        max-width: 1200px;
+        margin: auto;
+    }
 
     .logo {
         height: auto;

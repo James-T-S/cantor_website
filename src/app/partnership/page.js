@@ -56,29 +56,25 @@ export default function partnership() {
             <h1>Why Partner with Cantor College?</h1>
 
             <h2>
-                <li>Cutting-Edge Expertise: Our programs are at the forefront of industry trends,
-                    ensuring that our services reflect the latest advancements in technology and design.
-                </li>
-                <br/>
-                <br/>
+                <ul>
+                    <li>Cutting-Edge Expertise: Our programs are at the forefront of industry trends,
+                        ensuring that our services reflect the latest advancements in technology and design.
+                    </li>
 
-                <li>Innovation at the Core: We foster a culture of creativity and problem-solving,
-                    making us the ideal partner for businesses seeking innovative solutions.
-                </li>
-                <br/>
-                <br/>
+                    <li>Innovation at the Core: We foster a culture of creativity and problem-solving,
+                        making us the ideal partner for businesses seeking innovative solutions.
+                    </li>
 
-                <li>
-                    Tailored Solutions: We understand that every business is unique. Our services are
-                    customized to meet your specific objectives and challenges.
-                </li>
-                <br/>
-                <br/>
+                    <li>
+                        Tailored Solutions: We understand that every business is unique. Our services are
+                        customized to meet your specific objectives and challenges.
+                    </li>
 
-                <li>
-                    Future-Ready Talent: Our students are trained to excel in the modern workplace,
-                    equipped with both theoretical knowledge and practical skills.
-                </li>
+                    <li>
+                        Future-Ready Talent: Our students are trained to excel in the modern workplace,
+                        equipped with both theoretical knowledge and practical skills.
+                    </li>
+                </ul>
             </h2>
             <img src="/Images/CantorAtrium1.webp" alt="Cantor Atrium" className="resizeImage" />
 

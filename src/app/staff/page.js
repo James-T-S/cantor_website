@@ -1,5 +1,3 @@
-import "./staff.css";
-
 export default function students() {
 
 

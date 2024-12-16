@@ -2,19 +2,24 @@
 
 h2{
     background-color: #e6ab3c;
+    padding-left: 20px;
 }
 
 ul{
-    background-color: #e6ab3c;
-
+    padding: 0;
+    margin: 0;
 }
 
 ul li {
     list-style-type: none;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 20px;
 }
 
 
 b {
     text-decoration: underline;
     font-weight: 900;
+    padding: 0;
 }

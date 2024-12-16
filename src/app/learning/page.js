@@ -67,7 +67,7 @@ export default function learning() {
                         </li>
                     </ul>
                 </h2>
-                <img src="/Images/CheeseGrater.webp" alt="Cantor Atrium" className="resizeImage" />
+                <img src="/Images/CheeseGraterTall.webp" alt="Cantor Atrium" className="resizeImage" />
             </div>
 
 

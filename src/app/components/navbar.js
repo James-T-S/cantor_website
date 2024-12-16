@@ -13,19 +13,21 @@ const Navbar = () => {
 
     return (
         <nav>
-            <img src="/Images/Logo.webp" alt="Logo" className="logo" />
+            <div id="container">
+                <img src="/Images/Logo.webp" alt="Logo" className="logo" />
 
-            <button className='burger' onClick={toggleMenu}>&#9776;</button>
+                <button className='burger' onClick={toggleMenu}>&#9776;</button>
 
-            <menu className={menuOpen ? "active" : "notActive"}>
-                <li><Link href="/">Home</Link></li>
-                <li><Link href="/courses">Courses</Link></li>
-                <li><Link href="/students">Students</Link></li>
-                <li><Link href="/partnership">Partnership</Link></li>
-                <li><Link href="/staff">Staff Info</Link></li>
-                <li><Link href="/learning">learning Resources</Link></li>
-                <li><Link href="/facilities">Facilities</Link></li>
-            </menu>
+                <menu className={menuOpen ? "active" : "notActive"}>
+                    <li><Link href="/">Home</Link></li>
+                    <li><Link href="/courses">Courses</Link></li>
+                    <li><Link href="/students">Students</Link></li>
+                    <li><Link href="/partnership">Partnership</Link></li>
+                    <li><Link href="/staff">Staff Info</Link></li>
+                    <li><Link href="/learning">learning Resources</Link></li>
+                    <li><Link href="/facilities">Facilities</Link></li>
+                </menu>
+            </div>
         </nav>
     )
 }
